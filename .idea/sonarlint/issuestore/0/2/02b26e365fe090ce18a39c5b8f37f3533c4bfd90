@@ -1,0 +1,29 @@
+
+o
+java:S1104"RMake MONTHS a static final constant or non-public and provide accessors if needed.(‹Ïãé8‹¨¬¨Ò1
+I
+java:S1444",Make this "public static MONTHS" field final(‹Ïãé8‹¨¬¨Ò1
+n
+java:S3008"QRename this field "MONTHS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ïãé8¤¨¬¨Ò1
+:
+java:S2386"Make this member "protected".(‹Ïãé8¥¨¬¨Ò1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(†•ö‚8¥¨¬¨Ò1
+L	java:S106
+"+Replace this use of System.out by a logger.(ñ”‹«úÿÿÿÿ8§¨¬¨Ò1
+G	java:S106"+Replace this use of System.out by a logger.(öÎËé8§¨¬¨Ò1
+G	java:S106"+Replace this use of System.out by a logger.(ù›êƒ8§¨¬¨Ò1
+L	java:S106"+Replace this use of System.out by a logger.(ÙŠñ‚úÿÿÿÿ8§¨¬¨Ò1
+F	java:S106"+Replace this use of System.out by a logger.(ª£›?8¨¨¬¨Ò1
+G	java:S106"+Replace this use of System.out by a logger.(¡²ÿ³8ª¨¬¨Ò1
+L	java:S106 "+Replace this use of System.out by a logger.(î‰çËÿÿÿÿÿ8ª¨¬¨Ò1
+F	java:S106#"+Replace this use of System.out by a logger.(« Ý8ª¨¬¨Ò1
+L	java:S106+"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8«¨¬¨Ò1
+L	java:S106,"+Replace this use of System.out by a logger.(÷ÐÏÇúÿÿÿÿ8«¨¬¨Ò1
+L	java:S106-"+Replace this use of System.out by a logger.(ëëôÏûÿÿÿÿ8«¨¬¨Ò1
+G	java:S106."+Replace this use of System.out by a logger.(Â¢‰Ñ8«¨¬¨Ò1
+G	java:S106/"+Replace this use of System.out by a logger.(Ö¤ôþ8«¨¬¨Ò1
+C	java:S1314""Add a default case to this switch.(§Í‡­ùÿÿÿÿ8¬¨¬¨Ò1
+L	java:S1066"+Replace this use of System.out by a logger.(ÝÎÄÏüÿÿÿÿ8¬¨¬¨Ò1
+G	java:S1068"+Replace this use of System.out by a logger.(¾¬Æ¼8¬¨¬¨Ò1
+L	java:S106<"+Replace this use of System.out by a logger.(Áÿµÿýÿÿÿÿ8Ã™®¨Ò1

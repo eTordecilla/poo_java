@@ -1,0 +1,11 @@
+
+’
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ïá€‚ıÿÿÿÿ8öµñêÒ1
+L	java:S106"+Replace this use of System.out by a logger.(­ö˜ûÿÿÿÿ8€¶ñêÒ1
+G	java:S106"+Replace this use of System.out by a logger.(àí¬ò8¶ñêÒ1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8¶ñêÒ1
+G	java:S106"+Replace this use of System.out by a logger.(¨÷Ò8¶ñêÒ1
+K
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8†¶ñêÒ1
+K
+java:S1068	".Remove this unused "speciality" private field.(ñ¸û¬8‡¶ñêÒ1
