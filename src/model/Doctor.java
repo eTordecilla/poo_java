@@ -12,7 +12,7 @@ public class Doctor extends User{
      */
     private String speciality;
 
-    Doctor(String name, String email){
+    public Doctor(String name, String email){
         super(name, email);
         System.out.println("El nombre del model.Doctor asignado es: "+ name);
         this.speciality = speciality;
