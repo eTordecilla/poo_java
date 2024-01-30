@@ -1,3 +1,5 @@
+package model;
+
 public class User {
     private int id;
     private String name;
@@ -47,6 +49,16 @@ public class User {
     }
 
     public void setPhoneNumber(String phoneNumber) {
-        this.phoneNumber = phoneNumber;
+        if(phoneNumber.length() > 8){
+            System.out.println("El número telefónico debe ser de 8 dígitos máximo");
+        } else if(phoneNumber.length() == 8){
+            this.phoneNumber = phoneNumber;
+        }
+    }
+
+    @Override
+    public String toString() {
+        return "model.User: " + name + ", " + email +
+                "\nAddress: " + address + ", \nPhone: " + phoneNumber;
     }
 }
